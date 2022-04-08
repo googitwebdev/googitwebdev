@@ -21,27 +21,27 @@ Skills:
 Google SEO | Data Analysis | Content Writing & Blogs | Project Management | Logo Branding
 
 - 🖥️🖥️ I am currently working with Two Local Projects based on Classified Ads and Directory Listing. 
-- 💬 PM me on facebook:  <https://www.facebook.com/googitwebdevv/> if your interested to colab with me in your projects.
+- 💬 PM me if your interested to colab with your projects.
 - 📱 Direct Line: +63997 879 4778
 - 💬 Wattsapp: +63997 879 4778  
 
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](#gh-dark-mode-only)
 
 
 <h3 align="left">Languages and Tools:</h3>
