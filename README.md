@@ -28,7 +28,7 @@ Google SEO | Data Analysis | Content Writing & Blogs | Project Management | Logo
 
 ### Connect with me:
 
-[![website](./img/Website.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/Website.svg)](https://codestackr.com)
 &nbsp;&nbsp;
 [![website](./img/Facebook.svg)](https://www.facebook.com/googit.webdev)
 &nbsp;&nbsp;
