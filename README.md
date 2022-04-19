@@ -37,11 +37,10 @@ Google SEO | Data Analysis | Content Writing & Blogs | Project Management | Logo
 [![website](./img/twitter-light.svg)](https://twitter.com/googit_webdev#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/googit_webdev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/googitwebdev#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/googitwebdev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
