@@ -32,7 +32,7 @@ Google SEO | Data Analysis | Content Writing & Blogs | Project Management | Logo
 &nbsp;&nbsp;
 [![website](./img/Telegram.svg)](https://te.me/googitwebdev)
 &nbsp;&nbsp;
-[![website](./img/Youtube.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/Youtube.svg)](https://www.youtube.com/channel/UCbldldf2EoNGHvSi8O0dqXg)
 &nbsp;&nbsp;
 [![website](./img/Twitter.svg)](https://twitter.com/googit_webdev)
 &nbsp;&nbsp;
