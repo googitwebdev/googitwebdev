@@ -35,11 +35,9 @@ Google SEO | Data Analysis | Content Writing & Blogs | Project Management | Logo
 &nbsp;&nbsp;
 [![website](./img/Youtube.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/googit_webdev#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/googit_webdev#gh-dark-mode-only)
+[![website](./img/Twitter.svg)](https://twitter.com/googit_webdev)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/googitwebdev#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/googitwebdev#gh-dark-mode-only)
+[![website](./img/Linkedin.svg)](https://linkedin.com/in/googitwebdev)
 &nbsp;&nbsp;
 
 
