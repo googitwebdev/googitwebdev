@@ -37,7 +37,7 @@ Google SEO | Data Analysis | Content Writing & Blogs | Project Management | Logo
 &nbsp;&nbsp;
 [![website](./img/Twitter.svg)](https://twitter.com/googit_webdev)
 &nbsp;&nbsp;
-[![website](./img/Linkedin.svg)](https://linkedin.com/in/googitwebdev)
+[![website](./img/LinkedIn.svg)](https://linkedin.com/in/googitwebdev)
 &nbsp;&nbsp;
 
 
