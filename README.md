@@ -31,8 +31,8 @@ Google SEO | Data Analysis | Content Writing & Blogs | Project Management | Logo
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/facebook-light.svg)](https://www.facebook.com/googit.webdev#gh-light-mode-only)
+[![website](./img/facebook-dark.svg)](https://www.facebook.com/googit.webdev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
